@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MilkmanDoc
-- 👀 I’m interested in CTF, skill building
-- 🌱 I’m currently learning python and Github CTF
+- 👀 I’m interested in CTF, skill building, I am learning fullstack development.
+- 🌱 I’m currently learning: Modern Javascript, Node.js, Algorithms, React / Redux, Redis, Data structures, MySQL / MongoDB
 - 💞️ I’m looking to collaborate on learning and leading into bug bounty
 - 📫 How to reach me aaron_forth@hotmail.com
 
